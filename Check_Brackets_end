@@ -6,3 +6,4 @@ Else
 MsgBox "Please remember to INITIAL in brackets any entry in Device Notes field to indicate who has made the entry"
 End If
 End Sub
+
